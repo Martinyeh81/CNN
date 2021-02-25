@@ -26,6 +26,12 @@ The data is from Kaggle(https://www.kaggle.com/datamunge/sign-language-mnist?sel
 
 ## Model
 
+trainset's shape is (24709, 784)
+
+Valset's shape is (2746, 784)
+
+testset's shape is (27455, 784)
+
 1. Simulated the DNN model: LINEAR -> RELU -> LINEAR -> RELU -> LINEAR -> SOFTMAX and the cost function is:
 
 $$ J = - \frac{1}{m}  \sum_{i = 1}^m  \large ( \small y^{(i)} \log a^{ [2] (i)} + (1-y^{(i)})\log (1-a^{ [2] (i)} )\large )\small\tag{1}$$
