@@ -32,7 +32,7 @@ Valset's shape is (2746, 784)
 
 testset's shape is (27455, 784)
 
-1. Simulated the DNN model: LINEAR -> RELU -> LINEAR -> RELU -> LINEAR -> SOFTMAX and the cost function is:
+1. Simulated the DNN model: LINEAR -> RELU -> LINEAR -> RELU -> LINEAR -> SOFTMAX and the cross-entropy cost function J:
 
 $$ J = - \frac{1}{m}  \sum_{i = 1}^m  \large ( \small y^{(i)} \log a^{(i)} + (1-y^{(i)})\log (1-a^{ (i)} )\large )\small\tag{1}$$
 
