@@ -26,7 +26,3 @@ The data is from Kaggle(https://www.kaggle.com/datamunge/sign-language-mnist?sel
 
 ## Model
 
-
-![](https://latex.codecogs.com/png.latex?\dpi{400}\J=-\frac{1}{m}\sum_{i=1}^m\large(\smally^{(i)})
-
-![](https://latex.codecogs.com/png.latex?\dpi{400}\int&space;\frac{1}{x}&space;dx&space;=&space;\ln&space;\left|&space;x&space;\right|&space;+&space;C)
