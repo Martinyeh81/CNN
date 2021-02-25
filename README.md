@@ -1,11 +1,10 @@
 # Predict Sign Language
 
-## Description
-
 ## Data
+
 The data is from Kaggle(https://www.kaggle.com/datamunge/sign-language-mnist?select=amer_sign3.png)
 
-Grayscale image 28x28 pixels with (0-255) pixel values
+### Grayscale image 28x28 pixels with (0-255) pixel values:
 
 ||label|pixel1|pixel2|pixel3|pixel4|pixel5|pixel6|...|pixel784|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -15,6 +14,14 @@ Grayscale image 28x28 pixels with (0-255) pixel values
 |3|2|211|211|212|212|211|210|...|163|
 |4|2|164|167|170|172|176|179|...|179|
 
+### Image:
 
+![sign1](https://github.com/Martinyeh81/CNN/blob/main/images/amer_sign3.png)
 
-##
+![sign2](https://github.com/Martinyeh81/CNN/blob/main/images/american_sign_language.png)
+
+### Number of calsses
+
+![sign3](https://github.com/Martinyeh81/CNN/blob/main/images/number_classes.png)
+
+### model
