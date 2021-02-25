@@ -26,4 +26,6 @@ The data is from Kaggle(https://www.kaggle.com/datamunge/sign-language-mnist?sel
 
 ## Model
 
-<img src="http://chart.googleapis.com/chart?cht=tx&chl= J = - \frac{1}{m}\sum_{i=1}^m\large(\smally^{(i)}\loga^{[2](i)}+(1-y^{(i)})\log(1-a^{[2](i)})\large )\small\tag{2}" style="border:none;">
+<img src="http://chart.googleapis.com/chart?cht=tx&chl= $$J = - \frac{1}{m}\sum_{i=1}^m\large(\smally^{(i)}\loga^{[2](i)}+(1-y^{(i)})\log(1-a^{[2](i)})\large )\small\tag{2}$$" style="border:none;">
+
+<img src="http://chart.googleapis.com/chart?cht=tx&chl= 在此插入Latex公式" style="border:none;">
