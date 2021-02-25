@@ -38,5 +38,5 @@ $$ J = - \frac{1}{m}  \sum_{i = 1}^m  \large ( \small y^{(i)} \log a^{(i)} + (1-
 
 1. Simulated the DNN model: LINEAR -> RELU -> LINEAR -> RELU -> LINEAR -> SOFTMAX
 
-![sign4](https://github.com/Martinyeh81/CNN/blob/main/images/number_classes.png)
+![sign4](https://github.com/Martinyeh81/CNN/blob/main/images/DNN_layer.png)
 
