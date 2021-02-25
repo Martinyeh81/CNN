@@ -26,6 +26,7 @@ The data is from Kaggle(https://www.kaggle.com/datamunge/sign-language-mnist?sel
 
 ## Model
 
-![](https://latex.codecogs.com/svg.latex?\lim_{x%20\to%200}%20f(x)%20=%208)
 
-![](https://latex.codecogs.com/gif.latex?\dpi{400}\alpha&space;+&space;\frac{2\beta}{\gamma})
+![](https://latex.codecogs.com/png.latex?\J=-\frac{1}{m}\sum_{i=1}^m\large(\smally^{(i)}\loga^{[2](i)}+(1-y^{(i)})\log(1-a^{[2](i)})\large)\small\tag{2})
+
+![](https://latex.codecogs.com/png.latex?\dpi{400}\int&space;\frac{1}{x}&space;dx&space;=&space;\ln&space;\left|&space;x&space;\right|&space;+&space;C)
