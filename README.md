@@ -24,4 +24,7 @@ The data is from Kaggle(https://www.kaggle.com/datamunge/sign-language-mnist?sel
 
 ![sign3](https://github.com/Martinyeh81/CNN/blob/main/images/number_classes.png)
 
-### model
+## Model
+
+![](http://latex.codecogs.com/svg.latex?$$ J = - \frac{1}{m}  \sum_{i = 1}^m  \large ( \small y^{(i)} \log a^{ [2] (i)} + (1-y^{(i)})\log (1-a^{ [2] (i)} )\large )\small\tag{2}$$)
+
