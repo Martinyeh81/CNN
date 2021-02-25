@@ -36,7 +36,13 @@ Compute the cross-entropy cost function J:
 
 $$ J = - \frac{1}{m}  \sum_{i = 1}^m  \large ( \small y^{(i)} \log a^{(i)} + (1-y^{(i)})\log (1-a^{ (i)} )\large )\small\tag{1}$$
 
-1. Simulated the DNN model: LINEAR -> RELU -> LINEAR -> RELU -> LINEAR -> SOFTMAX
+1. Simulated the DNN model(epoch = 1500, batch_size = 32, optimizer= adam): LINEAR -> RELU -> LINEAR -> RELU -> LINEAR -> SOFTMAX (3 layers)
 
 ![sign4](https://github.com/Martinyeh81/CNN/blob/main/images/DNN_layer.png)
+
+2. CNN model(epoch = 200, batch_size = 64, optimizer= adam): CONV2D -> RELU -> MAXPOOL -> CONV2D -> RELU -> MAXPOOL -> FLATTEN -> FULLYCONNECTED (5 layers)
+
+3. ResNet model (epoch = 10, batch_size = 32, optimizer= adam):
+
+## Conclusion
 
