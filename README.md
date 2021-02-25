@@ -34,7 +34,7 @@ testset's shape is (27455, 784)
 
 1. Simulated the DNN model: LINEAR -> RELU -> LINEAR -> RELU -> LINEAR -> SOFTMAX and the cost function is:
 
-$$ J = - \frac{1}{m}  \sum_{i = 1}^m  \large ( \small y^{(i)} \log a^{ [2] (i)} + (1-y^{(i)})\log (1-a^{ [2] (i)} )\large )\small\tag{1}$$
+$$ J = - \frac{1}{m}  \sum_{i = 1}^m  \large ( \small y^{(i)} \log a^{(i)} + (1-y^{(i)})\log (1-a^{ (i)} )\large )\small\tag{1}$$
 
 
 
