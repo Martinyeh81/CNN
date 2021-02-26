@@ -58,6 +58,7 @@ The convolutional block is for the case where the input diimension is different 
 
 ||DNN|CNN|ResNet|
 | --- | --- | --- | --- |
+|Epoch|1500|200|10
 |Train Accuracy|1.000|0.921|0.999|
 |Val Accuracy|1.000|0.915|1.000|
 |Train loss|0.000113|0.235623|0.0011|
