@@ -38,15 +38,15 @@ Compute the softmax cross-entropy cost function J:
 
 $$ J = - \frac{1}{m}  \sum_{i = 1}^m  \large ( \small y^{(i)} \log a^{(i)} \large ) $$
 
-1. Simulated the DNN model(epoch = 1500, batch_size = 32, optimizer= adam): LINEAR -> RELU -> LINEAR -> RELU -> LINEAR -> SOFTMAX
+### Simulated the DNN model(epoch = 1500, batch_size = 32, optimizer= adam): LINEAR -> RELU -> LINEAR -> RELU -> LINEAR -> SOFTMAX
 
 ![sign4](https://github.com/Martinyeh81/CNN/blob/main/images/DNN_layer.png)
 
-2. CNN model(epoch = 200, batch_size = 64, optimizer= adam): CONV2D -> RELU -> MAXPOOL -> CONV2D -> RELU -> MAXPOOL -> FLATTEN -> FULLYCONNECTED
+### CNN model(epoch = 200, batch_size = 64, optimizer= adam): CONV2D -> RELU -> MAXPOOL -> CONV2D -> RELU -> MAXPOOL -> FLATTEN -> FULLYCONNECTED
 
 ![sign6](https://github.com/Martinyeh81/CNN/blob/main/images/CNN_layer.png)
 
-3. ResNet model (epoch = 10, batch_size = 32, optimizer= adam):
+### ResNet model (epoch = 10, batch_size = 32, optimizer= adam):
 
 The identity block is for the case where the input diimension is the same as the output dimension. Also, it skips over 3 hidden laters
 
@@ -79,7 +79,7 @@ The convolutional block is for the case where the input diimension is different 
 
 ![sign11](https://github.com/Martinyeh81/CNN/blob/main/images/ResNet_loss.png)
 
-### Confusion Matrix
+### Confusion Matrix with ResNet
 
 ||Precision|Recall|F1-score|
 | --- | --- | --- | --- |
