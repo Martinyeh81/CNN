@@ -65,17 +65,47 @@ The convolutional block is for the case where the input diimension is different 
 |Val Accuracy|1.000|0.915|1.000|
 |Train loss|0.000113|0.235623|0.0011|
 
-DNN Loss function
+### DNN Loss function
 
 ![sign9](https://github.com/Martinyeh81/CNN/blob/main/images/DNN_loss.png)
 
-CNN Loss function
+### CNN Loss function
 
 ![sign10](https://github.com/Martinyeh81/CNN/blob/main/images/CNN_loss.png)
 
-ResNet Loss function
+### ResNet Loss function
 
 ![sign11](https://github.com/Martinyeh81/CNN/blob/main/images/ResNet_loss.png)
+
+### Confusion Matrix
+
+||Precision|Recall|F1-score|
+| --- | --- | --- | --- |
+|0|1.00|1.00|1.00|
+|1|1.00|1.00|1.00|
+|2|1.00|1.00|1.00|
+|3|1.00|0.99|1.00|
+|4|1.00|0.99|0.99|
+|5|1.00|1.00|1.00|
+|6|0.94|1.00|0.97|
+|7|0.93|1.00|0.97|
+|8|1.00|1.00|1.00|
+|10|0.99|1.00|1.00|
+|11|1.00|1.00|1.00|
+|12|1.00|0.90|0.95|
+|13|0.85|1.00|0.92|
+|14|1.00|1.00|1.00|
+|15|1.00|1.00|1.00|
+|16|1.00|1.00|1.00|
+|17|0.99|1.00|1.00|
+|18|1.00|0.96|0.98|
+|19|0.99|0.89|0.94|
+|20|0.98|1.00|0.99|
+|21|1.00|0.93|0.97|
+|22|0.99|0.99|0.99|
+|23|1.00|0.99|1.00|
+|24|1.00|1.00|1.00|
+
 
 ## Reference
 
