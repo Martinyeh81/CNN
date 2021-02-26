@@ -42,6 +42,8 @@ $$ J = - \frac{1}{m}  \sum_{i = 1}^m  \large ( \small y^{(i)} \log a^{(i)} + (1-
 
 2. CNN model(epoch = 200, batch_size = 64, optimizer= adam): CONV2D -> RELU -> MAXPOOL -> CONV2D -> RELU -> MAXPOOL -> FLATTEN -> FULLYCONNECTED
 
+![sign6](https://github.com/Martinyeh81/CNN/blob/main/images/CNN_layer.png)
+
 3. ResNet model (epoch = 10, batch_size = 32, optimizer= adam):
 
 The identity block is for the case where the input diimension is the same as the output dimension. Also, it skips over 3 hidden laters
