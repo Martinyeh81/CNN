@@ -63,11 +63,14 @@ The convolutional block is for the case where the input diimension is different 
 |Train loss|0.000113|0.235623|0.0011|
 
 DNN Loss function
+
 ![sign9](https://github.com/Martinyeh81/CNN/blob/main/images/DNN_loss.png)
 
 CNN Loss function
+
 ![sign10](https://github.com/Martinyeh81/CNN/blob/main/images/CNN_loss.png)
 
 ResNet Loss function
+
 ![sign11](https://github.com/Martinyeh81/CNN/blob/main/images/ResNet_loss.png)
 
