@@ -4,7 +4,7 @@
 
 The data is from Kaggle(https://www.kaggle.com/datamunge/sign-language-mnist?select=amer_sign3.png)
 
-They are 24 classes of letters (excluding J and Z) 
+There are 24 classes of letters (excluding J and Z) 
 
 ### Grayscale image 28x28 pixels with (0-255) pixel values:
 
