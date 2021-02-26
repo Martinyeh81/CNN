@@ -34,7 +34,7 @@ Valset's shape is (2746, 784)
 
 testset's shape is (27455, 784)
 
-Compute the cross-entropy cost function J:
+Compute the softmax cross-entropy cost function J:
 
 $$ J = - \frac{1}{m}  \sum_{i = 1}^m  \large ( \small y^{(i)} \log a^{(i)} \large ) $$
 
