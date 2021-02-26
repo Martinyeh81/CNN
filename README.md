@@ -44,5 +44,7 @@ $$ J = - \frac{1}{m}  \sum_{i = 1}^m  \large ( \small y^{(i)} \log a^{(i)} + (1-
 
 3. ResNet model (epoch = 10, batch_size = 32, optimizer= adam):
 
+![sign6](https://github.com/Martinyeh81/CNN/blob/main/images/Resnet.png)
+
 ## Conclusion
 
