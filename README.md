@@ -1,4 +1,4 @@
-# Predict Sign Language
+# The American Sign Language letter
 
 ## Data
 
