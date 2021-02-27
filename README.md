@@ -38,7 +38,7 @@ Compute the softmax cross-entropy cost function J:
 
 $$ J = - \frac{1}{m}  \sum_{i = 1}^m  \large ( \small y^{(i)} \log a^{(i)} \large ) $$
 
-### Simulated the DNN model(epoch = 1500, batch_size = 32, optimizer= adam): LINEAR -> RELU -> LINEAR -> RELU -> LINEAR -> SOFTMAX
+### Simulated the NN model(epoch = 1500, batch_size = 32, optimizer= adam): LINEAR -> RELU -> LINEAR -> RELU -> LINEAR -> SOFTMAX
 
 ![sign4](https://github.com/Martinyeh81/CNN/blob/main/images/DNN_layer.png)
 
@@ -60,14 +60,14 @@ The convolutional block is for the case where the input diimension is different 
 
 ## Conclusion
 
-||DNN|CNN|ResNet|
+||NN|CNN|ResNet|
 | --- | --- | --- | --- |
 |Epoch|1500|200|10|
 |Train Accuracy|1.000|0.921|0.999|
 |Val Accuracy|1.000|0.915|1.000|
 |Train loss|0.000113|0.235623|0.0011|
 
-### DNN Loss function
+### NN Loss function
 
 ![sign9](https://github.com/Martinyeh81/CNN/blob/main/images/DNN_loss.png)
 
